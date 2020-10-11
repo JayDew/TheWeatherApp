@@ -1,5 +1,4 @@
 <!-- HEADER -->
-<table align="center"><tr><td align="center" width="9999">
 
 # TheWeatherApp
 
