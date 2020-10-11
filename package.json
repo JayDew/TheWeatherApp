@@ -1,0 +1,24 @@
+{
+  "name": "weather_app2",
+  "version": "1.0.0",
+  "description": "The real deal",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "JayDew",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-cities": "^3.1.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "request": "^2.88.2",
+    "string-similarity": "^4.0.2"
+  }
+}
